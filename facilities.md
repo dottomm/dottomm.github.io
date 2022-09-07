@@ -16,5 +16,5 @@ San Lorenzo Ranch offers horses and riders a professional full-service boarding 
 
 Boarding at San Lorenzo Ranch includes full care for all horses, including daily graining and blanketing. We offer stall and limited pasture boarding options, with all stall-boarded horses receiving individual turnout 7-days per week either AM or PM per owner preference.
 
-For further details or to set up an appointment to visit the ranch, please contact David Adamo at 707-321-0648 or by emailing adamoeventing@gmail.com any time.
+For further details or to set up an appointment to visit the ranch, please contact David Adamo at 707-321-0648 or by emailing [adamoeventing@gmail.com](a href='mailto:adamoeventing@gmail.com') any time.
 
