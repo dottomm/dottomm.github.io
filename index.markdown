@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+
+{% include image.html url="/assets/images/jump_arena.jpg" description="Jumping Arena" %}

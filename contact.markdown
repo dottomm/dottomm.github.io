@@ -2,6 +2,6 @@
 layout: page
 title: Contact Us
 permalink: /contact/
+order: 3
 ---
 
-<h2>Contact Us!</h2>

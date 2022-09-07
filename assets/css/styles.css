@@ -1,0 +1,58 @@
+---
+
+---
+*{
+  margin:0;
+  padding:0;
+  font-family: 'Roboto', arial,sans-serif;
+ 
+  
+}
+
+
+
+.page-content{
+  background-color: #1F2937;
+}
+
+.wrapper{
+  background-color: #fff;
+}
+
+
+
+.home p{
+  color:black;
+  line-height: 2;
+  font-size: 1.3rem;
+  text-align: center;
+}
+
+.x{
+  border: 2px solid green;
+}
+
+
+footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+footer p{
+  margin-bottom: 1rem;
+}
+
+.imgbox{
+  align-items: center;
+  justify-content: center;
+}
+
+.imgbox img {
+  width: 800px;
+}
+
+figcaption{
+  color: #1F2937;
+  font-weight: bold;
+}
