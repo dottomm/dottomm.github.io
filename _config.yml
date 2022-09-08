@@ -24,8 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  We are a full service boarding and training barn located in beautiful Sonoma County California. We offer exceptional horse care and highly individualized lessons and training for all levels of eventing, dressage and jumping.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: adamoeventing
 
 # Build settings
 theme: minima
